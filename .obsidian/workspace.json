@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides and Tutorials/DB/01. Backup & Restore.md",
+                "file": "Guides and Tutorials/DB/03. Permission Management.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Backup & Restore"
+              "title": "03. Permission Management"
             }
           }
         ]
@@ -203,12 +203,12 @@
   "active": "0f930ecd50cc9673",
   "lastOpenFiles": [
     "Guides and Tutorials/DB/02. User Management.md",
+    "Guides and Tutorials/DB/03. Permission Management.md",
+    "Guides and Tutorials/DB/01. Backup & Restore.md",
     "Guides and Tutorials/Apache Guides/01. New Link.md",
     "Guides and Tutorials/Apache Guides/03. Vhosts Check.md",
     "Guides and Tutorials/Apache Guides/02. Shared Repo + Apache2.md",
-    "Guides and Tutorials/DB/01. Backup & Restore.md",
     "Guides and Tutorials/Git/01. GIT SSH.md",
-    "Guides and Tutorials/DB/03. Permission Management.md",
     "Guides and Tutorials/Ubuntu/01. User For SSH.md",
     "Guides and Tutorials/Ubuntu/02. Managing Users.md",
     "Guides and Tutorials/Ubuntu/03. Managing Groups.md",

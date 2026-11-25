@@ -19,7 +19,7 @@
       {
         "provider": "chatgpt-oauth",
         "identity": "9442f92e03e2331d43a0c02bd113c0ead5aa0cc9a232d394bfdcd03bd561ac6f",
-        "fetchedAt": 1795401316633,
+        "fetchedAt": 1795575152815,
         "models": [
           {
             "value": "gpt-6.2-sol",
@@ -183,8 +183,8 @@
       }
     ],
     "clientVersion": {
-      "value": "0.171.0",
-      "checkedAt": 1795401313063
+      "value": "0.172.0",
+      "checkedAt": 1795575148515
     }
   }
 }
